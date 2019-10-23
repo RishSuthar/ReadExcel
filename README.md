@@ -1,1 +1,1 @@
-Read excel file and add thoe data into mysql databas.
+Read excel file and add those data into mysql databas.
